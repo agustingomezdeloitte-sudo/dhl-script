@@ -34,9 +34,9 @@
 # ✅ Click robusto en Send Email
 # ============================================================
 
-!pip install playwright python-dotenv -q
-!playwright install chromium > /dev/null 2>&1
-!playwright install-deps > /dev/null 2>&1
+# !pip install playwright python-dotenv -q
+# !playwright install chromium > /dev/null 2>&1
+# !playwright install-deps > /dev/null 2>&1
 
 import os
 import sys
